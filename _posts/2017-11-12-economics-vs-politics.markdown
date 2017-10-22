@@ -38,3 +38,5 @@ tags: [events, economics, politics, taiwan] # add tag
 - 【場地支援】Hsin-hung Yeh (Stanford)
 - 【行政協力】Ching-Shin Huang
 - 【文字紀錄】Kristine Chuang flexitarian snackwave iPhone.
+
+想掌握未來灣區哲五活動訊息，請追蹤我們的 [facebook 專頁](https://www.facebook.com/CafePhiloAtBayArea/)。
