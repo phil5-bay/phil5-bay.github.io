@@ -1,18 +1,21 @@
 ---
-layout: page
-title: About
+layout: default
+title: 關於我們
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+是否厭倦了下班後煮飯運動睡覺，週末買菜洗車跑餐廳的生活？是否覺得做研究的生活單調乏味？是否很久沒有接觸專業以外的領域？週末跟朋友 hangout，除了去 Cupertino 吃鮮芋仙或是去 Westfield 吃鼎泰豐以外，有沒有更新潮的生活休閒模式？
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+各位知道嗎？巴黎的許多街角咖啡廳每到週末就會有一群哲學家聚集在一起談天說地，或是辯證理論，或是議論天下事，和學生、藝術家、工人、流浪漢等不同背景的人群進行各種議題的哲學討論。這種自發性創作的獨立思考空間，成為基本公民權的實踐場域，更是培養與強化具有批判性自主思考的平台。 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+2010 年 8 月 13 日，「哲學星期五」在台北慕哲咖啡館 Café Philo 誕生，以巴黎街角咖啡廳為靈感，聚集了無數孤獨的卻又熱情的靈魂，在每週五晚上，一起討論公共議題。短短七年，哲五的人文精神已經在台灣以及世界各處散播開來，北美就有紐約、匹茲堡、波士頓、亞特蘭大、芝加哥等五個據點。
+
+舊金山灣區在這條路上也不孤獨。「哲學星期五＠灣區」將於 2017年10月開辦，邀請在灣區生活、念書、工作、旅行、流浪的每位朋友前來一同思索，討論不僅哲學，更包含文化、社會、環境、歷史、政治、藝術、科技等大大小小與你我相關的議題。
+
+我們帶著哲學星期五的精神，也沿用這個名字，但為了配合灣區的工作型態以及避開每日尖峰時刻的塞車惡夢，未來的活動都將辦在週末。同時，我們也在招募志工加入我們的行列！有任何問題歡迎與粉絲頁聯絡！
+
+灣區哲五，等你來共舞，讓我們一同譜出今後屬於灣區的科技人文精神。
 
 
-[jekyll-organization]: https://github.com/jekyll
+欲鎖定最新活動訊息，請追蹤我們的 facebook 專頁
+[Café Philo ＠ Bay Area - 灣區哲學星期五](https://www.facebook.com/pg/CafePhiloAtBayArea/)
