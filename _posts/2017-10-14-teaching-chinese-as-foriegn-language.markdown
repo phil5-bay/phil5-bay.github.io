@@ -10,8 +10,8 @@ categories: events
 - 日期：2017/10/14
 - 地點：史丹福大學 Graduate Community Center
 - 時間：下午 2:00 至 3:30
-- 講者：葉信鴻 （Stanford）
-- 主持人：何應佑 （Google）
+- 講者：葉信鴻
+- 主持人：何應佑
 - 錄影： [上半段](https://www.facebook.com/CafePhiloAtBayArea/videos/317434028731402/) / [下半段](https://www.facebook.com/CafePhiloAtBayArea/videos/319340788540726/)
 
 
