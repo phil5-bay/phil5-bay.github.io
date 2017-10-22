@@ -37,6 +37,6 @@ tags: [events, economics, politics, taiwan] # add tag
 - 【攝影錄影】Yitze Chin
 - 【場地支援】Hsin-hung Yeh (Stanford)
 - 【行政協力】Ching-Shin Huang
-- 【文字紀錄】Kristine Chuang flexitarian snackwave iPhone.
+- 【文字紀錄】Kristine Chuang 
 
 想掌握本次灣區哲五活動訊息，請RSVP本次的 [facebook 活動頁面](https://www.facebook.com/events/606921076365716)。
