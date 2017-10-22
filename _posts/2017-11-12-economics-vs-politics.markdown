@@ -2,7 +2,7 @@
 layout: post
 published: true
 title:  "為什麼不能政治歸政治，經濟歸經濟？？"
-date:   2017-10-12 00:00:00 -0700
+date:   2017-11-12 00:00:00 -0700
 categories: events
 ---
 
@@ -11,7 +11,7 @@ categories: events
 - 日期：2017/11/12
 - 地點：史丹福大學 Graduate Community Center
 - 時間：下午 2:00
-- 主持人：Julia Wang 
+- 主持人：Julia Wang
 - 直播：將於活動前7天預告
 
 ## 內容簡介
