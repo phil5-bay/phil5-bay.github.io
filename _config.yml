@@ -1,50 +1,33 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: 灣區哲學星期五 Philo Cafe @ Bay Area
-# email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  發源自台北哲學星期五，灣區哲五於2017年10月開辦，邀請在灣區的每位朋友前來一同思索、討論大大小小與你我相關的議題。
+title: 灣區哲學星期五
+description: > # this means to ignore newlines until "baseurl:"
+  "發源自台北哲學星期五，灣區哲五於2017年10月開辦，邀請在灣區的每位朋友前來一同思索、討論大大小小與你我相關的議題。"
+permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
-#github_username:  jekyll
 
-# Build settings
+# Author Settings
+author: 灣區哲學星期五 # add your name
+author-img: logo.png # add your photo
+about-author: "發源自台北哲學星期五，灣區哲五於2017年10月開辦，邀請在灣區的每位朋友前來一同思索、討論大大小小與你我相關的議題。" # add description
+#twitter: # add your Twitter handle
+facebook: CafePhiloAtBayArea # add your Facebook handle
+#github: artemsheludko # add your Github handle
+#linkedin: # add your Linkedin handle
+#email: # add your Email address
+
+# Disqus
+discus-identifier: phil5-bay # add your discus identifier
+
+# Tracker
+analytics: # Google Analytics
+
+# Build Settings
 markdown: kramdown
-theme: minima
-# theme: flexible-jekyll
 plugins:
-  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+paginate: 10
+paginate_path: "/page/:num"
 
-# theme: jekyll-theme-cayman
-
-defaults:
-  - scope:
-      path: "assets/images"
-    values:
-      image: true
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
