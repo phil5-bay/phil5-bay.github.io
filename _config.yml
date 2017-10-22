@@ -19,7 +19,7 @@ facebook: CafePhiloAtBayArea # add your Facebook handle
 discus-identifier: phil5-bay # add your discus identifier
 
 # Tracker
-analytics: # Google Analytics
+analytics: UA-108420108-1 # Google Analytics
 
 # Build Settings
 markdown: kramdown
