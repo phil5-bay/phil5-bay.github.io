@@ -13,7 +13,7 @@ tags: [events, politics, taiwan] # add tag
 - 地點：史丹福大學 Graduate Community Center
 - 時間：下午 2:00
 - 主持人：Hsin-hung Yeh
-- 直播：將於活動前7天預告
+- 直播：[連結](https://www.facebook.com/CafePhiloAtBayArea/videos/338445286630276/)
 
 ## 內容簡介
 
