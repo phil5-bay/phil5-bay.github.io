@@ -227,4 +227,4 @@ __圖說：制憲小組實作活動__
 - 【行政協力】Alice Lin
 - 【文字紀錄】Tammi Feng
 
-想掌握本次灣區哲五活動訊息，請RSVP本次的 [facebook 活動頁面](https://www.facebook.com/events/301872903634297/)。
+想掌握未來灣區哲五活動訊息，請追蹤我們的 [facebook 專頁](https://www.facebook.com/CafePhiloAtBayArea/)。
