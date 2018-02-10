@@ -28,9 +28,9 @@ tags: [events, politics, taiwan] # add tag
 
 ## 籌辦人員
 
-- 【協辦單位】[BATS 柏克萊台灣同學會| Berkeley Association of Taiwanese Students](https://ucbats.wordpress.com/)
+- 【協辦單位】[BATS 柏克萊台灣同學會](https://ucbats.wordpress.com/)
 - 【活動策劃】Po-Nan Li
-- 【海報設計】Po-Nan Li
+- 【海報設計】Wei-Yi Peng
 - 【網路宣傳】your name here!
 - 【網路直播】your name here!
 - 【攝影錄影】your name here!
